@@ -43,5 +43,17 @@ return [
     */
     #llum_services
 
+    'facebook' => [
+        'client_id' => env('FACEBOOK_OAUTH_APP_ID'),
+        'client_secret' => env('FACEBOOK_OAUTH_APP_SECRET'),
+        'redirect' => env('FACEBOOK_OAUTH_APP_REDIRECT_URL'),
+    ],
+
+    'github' => [
+        'client_id' => env('GITHUB_OAUTH_APP_ID'),
+        'client_secret' => env('GITHUB_OAUTH_APP_SECRET'),
+        'redirect' => env('GITHUB_OAUTH_APP_REDIRECT_URL'),
+    ],
+
 
 ];
