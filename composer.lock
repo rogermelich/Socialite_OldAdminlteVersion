@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "65b81be60a7e5b4975e32ae3876c427e",
+    "content-hash": "beadda00ef58c38fa643c699672f0b40",
     "packages": [
         {
             "name": "acacha/admin-lte-template-laravel",
@@ -181,16 +181,16 @@
         },
         {
             "name": "acacha/laravel-social",
-            "version": "0.1.4",
+            "version": "0.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/acacha/laravel-social.git",
-                "reference": "80635664124d08129b05da8893d55a93c0f724bf"
+                "reference": "1dbf29695045eea4e2c6fd72656f61b48e575164"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/acacha/laravel-social/zipball/80635664124d08129b05da8893d55a93c0f724bf",
-                "reference": "80635664124d08129b05da8893d55a93c0f724bf",
+                "url": "https://api.github.com/repos/acacha/laravel-social/zipball/1dbf29695045eea4e2c6fd72656f61b48e575164",
+                "reference": "1dbf29695045eea4e2c6fd72656f61b48e575164",
                 "shasum": ""
             },
             "require": {
@@ -233,7 +233,7 @@
                 "acacha",
                 "laravel-social"
             ],
-            "time": "2017-03-08T16:37:33+00:00"
+            "time": "2017-04-02T10:04:43+00:00"
         },
         {
             "name": "acacha/user",
@@ -3480,12 +3480,12 @@
             "version": "0.9.9",
             "source": {
                 "type": "git",
-                "url": "https://github.com/padraic/mockery.git",
+                "url": "https://github.com/mockery/mockery.git",
                 "reference": "6fdb61243844dc924071d3404bb23994ea0b6856"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/padraic/mockery/zipball/6fdb61243844dc924071d3404bb23994ea0b6856",
+                "url": "https://api.github.com/repos/mockery/mockery/zipball/6fdb61243844dc924071d3404bb23994ea0b6856",
                 "reference": "6fdb61243844dc924071d3404bb23994ea0b6856",
                 "shasum": ""
             },
